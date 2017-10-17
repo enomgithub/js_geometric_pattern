@@ -5,4 +5,4 @@ Python3系で作成した[tk_geometric_pattern](https://github.com/enomgithub/tk
 'a', 'z', 's', 'x', 'd', 'c', 'f', 'v'の各キーで、 表示される幾何学模様のパラメータを変更できます。
 
 ## 動作確認
-Google Crome 61
+Google Crome 61, Firefox 56, Internet Explorer 11
